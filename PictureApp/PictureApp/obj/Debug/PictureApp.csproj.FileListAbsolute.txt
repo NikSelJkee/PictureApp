@@ -1,0 +1,14 @@
+C:\Users\nikse\source\repos\PictureApp\PictureApp\bin\Debug\PictureApp.exe.config
+C:\Users\nikse\source\repos\PictureApp\PictureApp\bin\Debug\PictureApp.exe
+C:\Users\nikse\source\repos\PictureApp\PictureApp\bin\Debug\PictureApp.pdb
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.csprojAssemblyReference.cache
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.MainForm.resources
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.Properties.Resources.resources
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.csproj.GenerateResource.cache
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.csproj.CoreCompileInputs.cache
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.exe
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.pdb
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.LineForm.resources
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.CircleForm.resources
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.SquareForm.resources
+C:\Users\nikse\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.TriangleForm.resources
